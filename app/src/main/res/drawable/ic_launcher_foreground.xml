@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Graduation Mortarboard Cap -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,28 L30,40 L54,52 L78,40 Z" />
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M38,44 L38,54 C38,60 70,60 70,54 L70,44 L54,52 Z" />
+    <!-- Tassel -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M72,41 L76,56 L73,57 L69,42 Z" />
+
+    <!-- Open Book Pages -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,61 C45,57 32,58 26,62 L26,79 C32,75 45,74 54,78 C63,74 76,75 82,79 L82,62 C76,58 63,57 54,61 Z" />
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M54,61 L54,78 C54,78 54,61 54,61 Z"
+        android:strokeColor="#7E57C2"
+        android:strokeWidth="1.5" />
+
+    <!-- Science Atom / Nucleus Glow Dots -->
+    <path
+        android:fillColor="#80DEEA"
+        android:pathData="M54,84 A3,3 0 1,0 54,90 A3,3 0 1,0 54,84 Z" />
+    <path
+        android:fillColor="#80DEEA"
+        android:pathData="M44,85 A2,2 0 1,0 44,89 A2,2 0 1,0 44,85 Z" />
+    <path
+        android:fillColor="#80DEEA"
+        android:pathData="M64,85 A2,2 0 1,0 64,89 A2,2 0 1,0 64,85 Z" />
+</vector>

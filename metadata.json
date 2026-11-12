@@ -1,0 +1,6 @@
+{
+  "name": "CHSE Hub",
+  "description": "Your +2 Science Learning Platform for CHSE Odisha Class 11 & 12 students with Book Library, Notes, PYQs, MCQs, Mock Tests, and AI Doubt Solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
